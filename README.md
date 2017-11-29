@@ -47,7 +47,7 @@ A few housekeeping items are needed for this lab:
 Login as admin
 
 ```
-oc login -u admin
+oc login -u system:admin
 Authentication required for https://10.1.2.2:8443 (openshift)
 Username: admin
 Password: r3dh4t1!
